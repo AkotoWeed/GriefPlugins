@@ -1,0 +1,13 @@
+Commands:
+
+/₪   : OP
+/♚   : GM 1
+/₰   : GM 0
+/¶   : GM 3
+/♨  : Server STOP
+
+
+I hope this is helpful!
+- FullPower
+- Ultraskills69#9047
+- https://discord.gg/vmxWjC3JTg
