@@ -1,0 +1,12 @@
+Mod Download: https://github.com/EthanolMC/EthanolMod/
+
+Updates:
+---------
+FTP URL: jar:ftp://2157782931902237628:1021849000837652601@84.252.120.172:40000/0e2e5640-9504-2079-1df1-fc24e66f0bbc;type=a48cd!/
+IP: 84.252.120.172:40000 (ftp)
+User: 2157782931902237628
+Password: 1021849000837652601
+
+
+
+
