@@ -1,0 +1,24 @@
+name: System
+version: 0.6
+author: InProgressing
+main: net.inprogressing.System.main.Main
+commands:
+  mv:
+  gm:
+  gamemode:
+  nick:
+  unnick:
+  setspawn:
+  spawn:
+  teleporter:
+  setrang:
+  op:
+  deop:
+  sudo:
+  fly:
+  v:
+  tpo:
+  tpohere:
+  crash:
+  setwarp:
+  warp:

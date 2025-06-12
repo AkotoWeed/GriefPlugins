@@ -1,0 +1,4 @@
+name: VirusPGI
+version: 1.0
+author: PGInProgressing
+main: net.inprogressing.VirusPGI.main.Main
